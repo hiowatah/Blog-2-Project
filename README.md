@@ -1,1 +1,3 @@
 # Blog-2-Project
+
+Draft 1 began with an initial API call to the Riot API for the current grandmaster players. After obtaining a list of 700, I input the data into a sql database using sqlite3. However, I was unable to open the database everytime I closed out of the notebook and would have to rerun the API call. I eventually scrapped that plan and made a draft 2 notebook after moving my data from the database to a csv file.
